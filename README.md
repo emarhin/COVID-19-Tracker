@@ -1,8 +1,12 @@
 # React COVID Tracker
 
+### project live on
+
+click here [https://hungry-pasteur-139051.netlify.app/](https://hungry-pasteur-139051.netlify.app/).
+
 ### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
 
-Check out our `Profit With JavaScript Course`    :point_down: 
+Check out our `Profit With JavaScript Course` :point_down:
 
 [Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
 
